@@ -1,6 +1,6 @@
-<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h1>ExpNo 5 : Implement-Simple-Hill-Climbing-Algorithm</h1> 
+<h3>Name: L. MONISHA            </h3>
+<h3>Register Number: 2305001019             </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -78,23 +78,18 @@ SimpleHillClimbing()
 ```
 
 <hr>
-<h2>Sample Input and Output</h2>
+
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
-Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
-Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
-Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
-Score: 594  Solution :  8RzF:oG ]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-....................................................<br>
-..................................................<br>
-................................................<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 0  Solution :  Artificial Intelligence<br>
+
+<img width="1173" height="493" alt="Screenshot 2025-10-03 090740" src="https://github.com/user-attachments/assets/909f7e6c-1a90-40b4-8780-a8f0bbeeec0d" />
+
+
+<img width="1164" height="334" alt="Screenshot 2025-10-03 090849" src="https://github.com/user-attachments/assets/197bc3fe-b23a-4388-8015-2717347bd980" />
+
+
+## Result 
+Thus, The given Implement-Simple-Hill-Climbing-Algorithm was executed successfully
+
+
+
